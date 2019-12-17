@@ -1,5 +1,5 @@
 ## OAuth 2.0 and OpenID Connect in Plain English
-### Little Rock Tech Fest 2019
+### DevOpsDays Tel Aviv 2019
 
 * [Presentation](OAuthandOpenIDConnectInPlainEnglish.pdf)
 * [pkce-cli](https://github.com/oktadeveloper/pkce-cli)
